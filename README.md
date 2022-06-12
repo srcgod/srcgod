@@ -1,8 +1,5 @@
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h2> Welcome to my profile! <img src="https://c.tenor.com/ZY20qdo9d5wAAAAC/kitten-cute.gif" width="25"></h2>
 
 <img align='right' src="https://c.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif" width="200">
 
@@ -16,11 +13,6 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=your-srcgod&style=flat-square&color=blue" alt=""/>
-
-  <h1>
- hey there
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
   
   
   <div align="center">
